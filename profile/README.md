@@ -11,4 +11,3 @@ Team
 - [Lilit Kharatyan](https://github.com/LilitKharatyan), programming: NLP (model training/evaluation), web-app (back-end, front-end, web-design), data processing
 
 See further details on the [project page](https://caval.dch.phil-fak.uni-koeln.de/).
-
