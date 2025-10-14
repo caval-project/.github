@@ -1,4 +1,4 @@
-## The Classical Armenian Valency Lexicon Project
+# The Classical Armenian Valency Lexicon Project
 
 [![Website caval.dch.phil-fak.uni-koeln.de](https://img.shields.io/website-up-down-green-red/http/caval.dch.phil-fak.uni-koeln.de.svg)](https://caval.dch.phil-fak.uni-koeln.de/)
 &nbsp;
