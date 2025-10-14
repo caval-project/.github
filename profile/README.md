@@ -1,6 +1,6 @@
 # The Classical Armenian Valency Lexicon Project
 
-[![Website caval.dch.phil-fak.uni-koeln.de](https://img.shields.io/website-up-down-green-red/http/caval.dch.phil-fak.uni-koeln.de.svg)](https://caval.dch.phil-fak.uni-koeln.de/)
+[![Website caval-daf93528df08.herokuapp.com](https://img.shields.io/website-up-down-green-red/http/caval-daf93528df08.herokuapp.com.svg)](https://caval-daf93528df08.herokuapp.com/)
 &nbsp;
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
