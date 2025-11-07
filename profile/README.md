@@ -2,7 +2,7 @@
 
 [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 &nbsp;
-[![Website caval.dch.phil-fak.uni-koeln.de](https://img.shields.io/website-up-down-green-red/http/caval.dch.phil-fak.uni-koeln.de.svg)](http://caval.dch.phil-fak.uni-koeln.de/)
+[![Website caval.dch.phil-fak.uni-koeln.de](https://img.shields.io/badge/website-up-green.svg)](http://caval.dch.phil-fak.uni-koeln.de/)
 &nbsp;
 [![UD-xcl-treebank](https://img.shields.io/badge/UD%20v2.16-up-green.svg)](http://universaldependencies.org/treebanks/xcl_caval/index)
 
