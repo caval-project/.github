@@ -12,4 +12,4 @@ Team
 - [Petr Kocharov](https://github.com/pkocharov), PI: web-app design, manual corpus annotation, data analysis
 - [Lilit Kharatyan](https://github.com/LilitKharatyan), programming: NLP (model training/evaluation), web-app (back-end, front-end, web-design), data processing
 
-See further details on the [project page](http://caval.dch.phil-fak.uni-koeln.de/about/).
+See further details on the [project page](http://caval.dch.phil-fak.uni-koeln.de/about).
