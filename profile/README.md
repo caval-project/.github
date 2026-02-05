@@ -6,7 +6,7 @@
 &nbsp;
 [![UD-xcl-treebank](https://img.shields.io/badge/UD%20v2.17-up-green.svg)](http://universaldependencies.org/treebanks/xcl_caval/index)
 
-The DFG-funded **CAVaL** project offers an online platform for the study of Classical Armenian morphosyntax. The platform allows to retrieve corpus-driven data on syntactic, morphological, and lexical properties of predicate-argument structures. The corpus includes a selection of early Classical Armenian texts annotated according to the *Universal Dependencies* formalism.
+The DFG-funded **CAVaL** project offers an online platform for the study of Classical Armenian morphosyntax. The platform allows to retrieve corpus-driven data on syntactic, morphological, and lexical properties of verb frames. The corpus includes a selection of early Classical Armenian texts annotated according to the *Universal Dependencies* formalism.
 
 Team
 - [Petr Kocharov](https://github.com/pkocharov), PI: web-app design, manual corpus annotation, data analysis
